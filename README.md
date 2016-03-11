@@ -5,7 +5,8 @@ babel-preset-es2015-loose for Rollup
 
 # Installation
 
-    $ npm i -S babel-preset-es2015 babel-preset-es2015-loose babel-preset-es2015-loose-rollup
+    $ npm install --save-dev babel-preset-es2015 babel-preset-es2015-loose
+    $ npm install --save-dev https://github.com/kazupon/babel-preset-es2015-loose-rollup
 
 
 ## Usage
