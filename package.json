@@ -1,7 +1,7 @@
 {
   "name": "babel-preset-es2015-loose-rollup",
   "description": "babel-preset-es2015-loose for Rollup",
-  "version": "0.99.0",
+  "version": "1.0.0",
   "author": {
     "name": "kazuya kawaguchi",
     "email": "kawakazu80@gmail.com"
